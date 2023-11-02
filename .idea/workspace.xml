@@ -1,7 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="bd7a455d-4d8e-4de1-b472-1383e1309793" name="Default Changelist" comment="" />
+    <list default="true" id="bd7a455d-4d8e-4de1-b472-1383e1309793" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/classes/Welcome.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/classes/Welcome.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/composer.json" beforeDir="false" afterPath="$PROJECT_DIR$/composer.json" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -9,6 +14,9 @@
   </component>
   <component name="ComposerSettings">
     <execution />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="2XcZx3rW96gNSDpy3IODCwzxQk1" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -35,7 +43,7 @@
       <updated>1698930571839</updated>
       <workItem from="1698930573236" duration="75000" />
       <workItem from="1698930649547" duration="3186000" />
-      <workItem from="1698934229358" duration="1261000" />
+      <workItem from="1698934229358" duration="2160000" />
     </task>
     <servers />
   </component>

@@ -3,13 +3,13 @@
 
 namespace App\classes;
 
-
+//composer dump-autoload
 class Welcome
 {
- public $message;
+ public $message;//property
  public function  __construct()
  {
-     $this->message = 'Welcome PHP';
+     $this->message = 'Welcome PHP';//this own class object
  }
 
  public function index()
